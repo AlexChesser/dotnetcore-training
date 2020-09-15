@@ -1,5 +1,16 @@
 # dotnetcore-training
-A roughly one-hour introduction to dotnetcore notes for an instructor-led professional development session
+A roughly one-hour introduction to dotnetcore notes for an instructor-led professional development session.
+
+## learning objective
+
+At the end of this training, participants should:
+- know what is meant by the terms "application lifecycle" and "request lifecycle"
+- have an understanding of the dotnetcore application lifecycle
+- have an understanding of the dotnetcore request lifecycle
+- know how to run the visual studio code debugger
+
+### not covered
+specifically not covered at this time is C# language specifics
 
 ## download and setup 
 
